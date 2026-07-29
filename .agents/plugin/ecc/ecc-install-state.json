@@ -1,0 +1,23 @@
+{
+  "installedAt": "2026-07-28T21:55:37.884Z",
+  "profile": "agy-developer",
+  "target": "antigravity",
+  "version": "1.0.0",
+  "resolvedModules": [
+    "rules-core",
+    "agents-core",
+    "commands-core",
+    "hooks-runtime",
+    "platform-configs",
+    "workflow-quality",
+    "framework-language",
+    "database",
+    "devops-infra",
+    "research-apis",
+    "operator-workflows",
+    "optimization-workflows",
+    "agentic-patterns",
+    "security"
+  ],
+  "operationsCount": 165
+}
