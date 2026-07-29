@@ -1,12 +1,8 @@
 ---
-trigger: glob
-globs:
-  - "**/*.html"
-  - "**/*.css"
-  - "**/*.js"
-  - "**/*.ts"
-  - "**/*.tsx"
+trigger: model_decision
+description: Web frontend performance optimization, Core Web Vitals (LCP, INP, CLS, FCP), bundle size reduction, code splitting, asset preloading, lazy loading, and rendering speed
 ---
+
 > This file extends [common/performance.md](../common/performance.md) with web-specific performance content.
 
 # Web Performance Rules

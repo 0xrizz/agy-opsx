@@ -1,7 +1,8 @@
 ---
 trigger: model_decision
-description: "Web security guidelines covering CORS, CSP headers, authentication, and sanitization"
+description: Web application security best practices, Content Security Policy (CSP), XSS prevention, client-side input sanitization, CORS header configuration, and secure storage
 ---
+
 > This file extends [common/security.md](../common/security.md) with web-specific security content.
 
 # Web Security Rules

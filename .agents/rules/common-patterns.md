@@ -1,6 +1,5 @@
 ---
-trigger: model_decision
-description: "Architectural design patterns, skeleton project discovery, and code reuse guidelines"
+trigger: always_on
 ---
 
 # Common Patterns

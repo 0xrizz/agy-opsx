@@ -1,6 +1,5 @@
 ---
-trigger: model_decision
-description: "Git commit message standards, conventional commit types, and pull request workflows"
+trigger: always_on
 ---
 
 # Git Workflow

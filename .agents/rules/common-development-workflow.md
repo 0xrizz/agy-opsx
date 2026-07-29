@@ -1,6 +1,5 @@
 ---
-trigger: model_decision
-description: "End-to-end feature development workflow covering research, planning, TDD, code review, and pre-review checks"
+trigger: always_on
 ---
 
 # Development Workflow

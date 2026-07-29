@@ -1,6 +1,5 @@
 ---
-trigger: model_decision
-description: "Mandatory standards, checklists, and workflows for performing code reviews and security checks"
+trigger: always_on
 ---
 
 # Code Review Standards

@@ -1,6 +1,5 @@
 ---
-trigger: model_decision
-description: "Lifecycle hook specifications, tool permission controls, and task tracking guidelines"
+trigger: always_on
 ---
 
 # Hooks System

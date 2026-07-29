@@ -1,10 +1,8 @@
 ---
 trigger: glob
-globs:
-  - "**/*.test.ts"
-  - "**/*.spec.ts"
-  - "**/test/**/*.ts"
+globs: "**/*.{test,spec}.{ts,tsx}"
 ---
+
 # TypeScript/JavaScript Testing
 
 > This file extends [common/testing.md](../common/testing.md) with TypeScript/JavaScript specific content.

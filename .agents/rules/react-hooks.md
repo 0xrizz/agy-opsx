@@ -1,11 +1,6 @@
 ---
 trigger: glob
-globs:
-  - "**/*.tsx"
-  - "**/*.jsx"
-  - "**/hooks/**/*.ts"
-  - "**/use-*.ts"
-  - "**/use-*.tsx"
+globs: "**/*.{tsx,jsx}, **/hooks/**/*.{ts,js}"
 ---
 
 # React Hooks

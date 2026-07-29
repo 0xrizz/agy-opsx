@@ -1,12 +1,8 @@
 ---
 trigger: glob
-globs:
-  - "**/*.tsx"
-  - "**/*.jsx"
-  - "**/components/**/*.ts"
-  - "**/app/**/*.tsx"
-  - "**/pages/**/*.tsx"
+globs: "**/*.{tsx,jsx}, **/components/**/*.{ts,js}"
 ---
+
 # React Patterns
 
 > This file extends [typescript/patterns.md](../typescript/patterns.md) and [common/patterns.md](../common/patterns.md) with React specific content. For hook-specific rules see [hooks.md](./hooks.md).

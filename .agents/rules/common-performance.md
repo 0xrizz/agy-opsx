@@ -1,6 +1,5 @@
 ---
-trigger: model_decision
-description: "Performance optimization guidelines and model selection strategies for agent execution"
+trigger: always_on
 ---
 
 # Performance Optimization

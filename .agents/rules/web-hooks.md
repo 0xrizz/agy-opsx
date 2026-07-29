@@ -1,7 +1,8 @@
 ---
 trigger: model_decision
-description: "Browser event handling, DOM lifecycle hooks, and event listener cleanup guidelines"
+description: Frontend web hooks, browser event lifecycle management, DOM event listeners, ResizeObserver, IntersectionObserver, scroll handlers, and web tool execution patterns
 ---
+
 > This file extends [common/hooks.md](../common/hooks.md) with web-specific hook recommendations.
 
 # Web Hooks

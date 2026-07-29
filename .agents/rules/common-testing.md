@@ -1,6 +1,5 @@
 ---
-trigger: model_decision
-description: "Testing requirements, 80%+ coverage target, TDD workflow, and test suite organization"
+trigger: always_on
 ---
 
 # Testing Requirements

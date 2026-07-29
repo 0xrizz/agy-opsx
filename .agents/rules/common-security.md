@@ -1,6 +1,5 @@
 ---
-trigger: model_decision
-description: "Security guidelines, mandatory secret checks, input validation, and vulnerability prevention"
+trigger: always_on
 ---
 
 # Security Guidelines
