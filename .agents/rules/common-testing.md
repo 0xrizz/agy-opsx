@@ -1,5 +1,6 @@
 ---
-trigger: always_on
+trigger: model_decision
+description: Testing requirements, 80% coverage threshold, TDD workflow, test structure AAA pattern, and test naming conventions
 ---
 
 # Testing Requirements

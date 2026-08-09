@@ -1,0 +1,10 @@
+# Graphify Output Directory
+graphify-out/
+
+# Patch Staging & Diff Files
+harness/patches/
+*.patch
+*.diff
+
+# Legacy Agent Directory
+.agent/

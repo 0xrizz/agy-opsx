@@ -196,7 +196,8 @@ For tasks that exceed a single session, split into sequential prompts:
 
 ## Output Format
 
-Present your analysis in this exact structure. ALWAYS write the entire output (analysis, prompt diagnosis, and generated prompt) in English, regardless of the user's input language. Whenever an ECC command, workflow, or subagent is recommended (such as `/plan`, `/update-docs`, `/verify`, `/a-planner`), explicitly write tool calling execution directives in the optimized prompt instructing the agent to execute that specific tool.
+Present your analysis in this exact structure. Respond in the same language
+as the user's input.
 
 ### Section 1: Prompt Diagnosis
 

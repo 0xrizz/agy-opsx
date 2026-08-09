@@ -1,5 +1,6 @@
 ---
-trigger: always_on
+trigger: model_decision
+description: Code review standards, review checklists, mandatory triggers, review severity levels, and code review workflows
 ---
 
 # Code Review Standards
